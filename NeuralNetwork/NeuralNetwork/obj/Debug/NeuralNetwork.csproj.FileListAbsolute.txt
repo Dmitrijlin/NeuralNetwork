@@ -1,1 +1,9 @@
 E:\GitRepos\NeuralNetwork\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.exe.config
+C:\Users\Dmitrij\Documents\GitHub\NeuralNetwork\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.exe.config
+C:\Users\Dmitrij\Documents\GitHub\NeuralNetwork\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.exe
+C:\Users\Dmitrij\Documents\GitHub\NeuralNetwork\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.pdb
+C:\Users\Dmitrij\Documents\GitHub\NeuralNetwork\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.csprojResolveAssemblyReference.cache
+C:\Users\Dmitrij\Documents\GitHub\NeuralNetwork\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.Properties.Resources.resources
+C:\Users\Dmitrij\Documents\GitHub\NeuralNetwork\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.csproj.GenerateResource.Cache
+C:\Users\Dmitrij\Documents\GitHub\NeuralNetwork\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.exe
+C:\Users\Dmitrij\Documents\GitHub\NeuralNetwork\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.pdb
