@@ -1,1 +1,2 @@
 E:\GitRepos\NeuralNetwork\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.exe.config
+C:\Users\Dmitrij\Documents\GitHub\NeuralNetwork\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.exe.config
